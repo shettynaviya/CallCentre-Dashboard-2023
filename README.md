@@ -2,6 +2,8 @@
 
 Excel dashboard analyzing 2023 call center performance with KPIs, trends, and representative metrics across Cincinnati, Cleveland, and Columbus.
 
+🔗 **[View Live Dashboard](https://1drv.ms/x/c/2f4fe66100e35deb/IQD-I4TYX6W4QJMtjIICRcAOAZUHnm3XquizzuzFPUaeNRg?e=ik2xeR)**
+
 ## 📊 Key Metrics
 
 - **Total Calls:** 1,000 (614 current)
